@@ -1,0 +1,124 @@
+{
+  "objectInfo" : {
+    "id" : "4gCK1ZID5oQgI4qxj0vOMB",
+    "name" : "Profile_1",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "627ce41b-c495-44cf-9bae-7dd12cb4f8ee"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "json",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "945N5tnWNIEk0NM80L0Y2o",
+    "name" : "Mapplet_SingleInputSingleOutput_ReverseAString",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0148R440000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/ExpressionMapplets_New"
+  }, {
+    "id" : "9GLj6BQ5VcEez80sQt3s46",
+    "name" : "Demo_Rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9GLj6BQ5VcEez80sQt3s46"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "single input rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  }, {
+    "id" : "4WLXlfRUquSglOpYdKvxqh",
+    "name" : "Cleanse_UpperCase",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4WLXlfRUquSglOpYdKvxqh"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project1_Verifier_CMD"
+  }, {
+    "id" : "4KkVUmcw1owinNcfa3bquP",
+    "name" : "ORA_SRC",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0148R40B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "2YT6ntysAENei0xNy0KOYW",
+    "name" : "Parse_Email",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2YT6ntysAENei0xNy0KOYW"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Parse Project1_Email",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/_ParseMapplets"
+  } ]
+}
