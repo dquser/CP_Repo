@@ -41,6 +41,26 @@
     },
     "path" : "/Explore/Default"
   }, {
+    "id" : "4WLXlfRUquSglOpYdKvxqh",
+    "name" : "Cleanse_UpperCase",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4WLXlfRUquSglOpYdKvxqh"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project1_Verifier_CMD"
+  }, {
     "id" : "4KkVUmcw1owinNcfa3bquP",
     "name" : "ORA_SRC",
     "type" : "Connection",
