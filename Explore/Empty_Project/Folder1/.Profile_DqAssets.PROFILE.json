@@ -100,5 +100,25 @@
       }
     },
     "path" : "/Explore/_ParseMapplets"
+  }, {
+    "id" : "axOCqGhmyt7cl27He89dMO",
+    "name" : "Mapplet_1",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0148R44000000000000H"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project1"
   } ]
 }
