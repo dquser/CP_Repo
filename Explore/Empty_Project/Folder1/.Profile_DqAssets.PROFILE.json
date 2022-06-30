@@ -80,5 +80,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "2YT6ntysAENei0xNy0KOYW",
+    "name" : "Parse_Email",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2YT6ntysAENei0xNy0KOYW"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Parse Project1_Email",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/_ParseMapplets"
   } ]
 }
