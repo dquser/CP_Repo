@@ -21,6 +21,26 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
+    "id" : "dWp4nIYsT0jkI3VmpQZS84",
+    "name" : "Verifier_Mapplet_Discrete",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "dWp4nIYsT0jkI3VmpQZS84"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project1"
+  }, {
     "id" : "9GLj6BQ5VcEez80sQt3s46",
     "name" : "Demo_Rule",
     "type" : "RULE_SPECIFICATION",
