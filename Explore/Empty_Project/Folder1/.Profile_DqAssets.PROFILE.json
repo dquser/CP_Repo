@@ -41,6 +41,26 @@
     },
     "path" : "/Explore/Default"
   }, {
+    "id" : "5iKP1qMVMgElft0otKgrOT",
+    "name" : "RS_WithMpltRule_IntDatatype",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5iKP1qMVMgElft0otKgrOT"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/RuleSpecWithMplt"
+  }, {
     "id" : "4WLXlfRUquSglOpYdKvxqh",
     "name" : "Cleanse_UpperCase",
     "type" : "CLEANSE",
