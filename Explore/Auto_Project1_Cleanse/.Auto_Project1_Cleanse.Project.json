@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "9FLSEWOmyj0fIdFVwjZFCj",
+    "name" : "Auto_Project1_Cleanse",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc1",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
