@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5LGPi44OLhciJECT6gf38B",
+    "name" : "Rule Specification2",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5LGPi44OLhciJECT6gf38B"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
