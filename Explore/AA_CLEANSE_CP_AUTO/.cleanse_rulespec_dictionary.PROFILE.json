@@ -1,0 +1,84 @@
+{
+  "objectInfo" : {
+    "id" : "5QToyOamwsMbP05MtI8ky4",
+    "name" : "cleanse_rulespec_dictionary",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "896a787a-852c-4d13-acd5-4c9152844bb9"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "json",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "4g8URqfDz4obOdYBzJ6EAe",
+    "name" : "nullCheck",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4g8URqfDz4obOdYBzJ6EAe"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "check for nulls",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/AA_CLEANSE_CP_AUTO/dqc_assets"
+  }, {
+    "id" : "4KkVUmcw1owinNcfa3bquP",
+    "name" : "ORA_SRC",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0148R40B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "49SWg8i72KXds6Rw6yTrua",
+    "name" : "Cleanse_USA_Country",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "49SWg8i72KXds6Rw6yTrua"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Cleanse asset used for standardizing USA country",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/AA_CLEANSE_CP_AUTO/dqc_assets"
+  } ]
+}
