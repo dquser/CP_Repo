@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "8v3CbXkG73JlkwRUu4w6Sk",
+    "name" : "Checkin_checkoutProject_Git3321214",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
