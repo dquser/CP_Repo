@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "e9rdB0nyKiAdo5aNGaN7C6",
+    "name" : "Profile_checkIn_46991",
+    "type" : "PROFILE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "d2056ff1-a74e-4cf3-b723-23fa0f65b8c6"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Creating profile using Automation.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "4KkVUmcw1owinNcfa3bquP",
+    "name" : "ORA_SRC",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0148R40B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
