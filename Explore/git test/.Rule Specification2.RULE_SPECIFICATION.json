@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1LW65bLNMXudseyYJhJMIx",
+    "name" : "Rule Specification2",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1LW65bLNMXudseyYJhJMIx"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
