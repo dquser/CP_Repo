@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "95Mgmo6owxmlzQ4Gn6q1Gd",
+    "name" : "Rule Specification2",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "95Mgmo6owxmlzQ4Gn6q1Gd"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
