@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9GLj6BQ5VcEez80sQt3s46",
+    "name" : "Demo_Rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9GLj6BQ5VcEez80sQt3s46"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "single input rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
